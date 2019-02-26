@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BasicCaculator</string>
+    <string name="history">History</string>
+</resources>
